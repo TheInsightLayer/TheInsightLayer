@@ -27,3 +27,17 @@ The Insight Layer helps solve:
 
 It’s the missing link between OLTP, OLAP, and GenAI agentic memory — enabling long-term, dynamic insight reuse.
 
+---
+
+## Coming Soon
+
+- Starter prompt libraries for integrating GenAI + Insight Layer
+- InsightUnit schema and tagging framework
+- Sample implementation architecture and API references
+
+---
+
+## Contact
+
+LinkedIn: [The Insight Layer](https://www.linkedin.com/company/the-insight-layer)  
+Email: [hello@theinsightlayer.org](mailto:hello@theinsightlayer.org)
